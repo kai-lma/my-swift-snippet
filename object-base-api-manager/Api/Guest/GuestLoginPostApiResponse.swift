@@ -1,11 +1,3 @@
-//
-//  GuestLoginPostApiResponse.swift
-//  TenkenApp
-//
-//  Created by KAI on 2019/03/13.
-//  Copyright © 2019 bravesoft inc. All rights reserved.
-//
-
 import Foundation
 
 /// ゲストログイン送信のApiResponseモデル
